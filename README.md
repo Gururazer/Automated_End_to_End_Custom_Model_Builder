@@ -128,14 +128,14 @@ Special thanks to **Ultralytics** for providing YOLOv8.
 
 
 # Steps to use:-
-- Clone the repositiry branch : -
-    git clone https://github.com/Gururazer/Automated_End_to_End_Custom_Model_Builder.git master
+1. Clone the repositiry branch : -
+   - > git clone https://github.com/Gururazer/Automated_End_to_End_Custom_Model_Builder.git master
 
-- Go to the cloned directory
+1. Go to the cloned directory
 
-- Download requirements:-
-    pip install -r requirements.txt
+1. Download requirements:-
+    - > pip install -r requirements.txt
 
-- Run :-
-    python manage.py migrate
-    python manage.py run server
+1. Run :-
+    - > python manage.py migrate
+    - > python manage.py run server
