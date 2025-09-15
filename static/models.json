@@ -1,0 +1,17 @@
+{
+    "model_names": [
+        "yolov8n",
+        "yolov8s",
+        "yolov8m",
+        "VehiclesV8n",
+        "VehiclesV8s"
+
+    ],
+    "model_description": [
+        "Nano level model for YOLOv8",
+        "Small level model for YOLOv8",
+        "Medium level model for YOLOv8",
+        "Nano architecture vehicle detection model consisting of 5 classes - Car, Motorcycle, Bus, Truck, Autorickshaw",
+        "Small architecture vehicle detection model consisting of 5 classes - Car, Motorcycle, Bus, Truck, Autorickshaw"
+    ]
+}
