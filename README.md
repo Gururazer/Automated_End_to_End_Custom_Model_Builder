@@ -129,7 +129,7 @@ Special thanks to **Ultralytics** for providing YOLOv8.
 
 # Steps to use:-
 - Clone the repositiry branch : -
-    git clone https://github.com/Rishith01/Infosys-Internship-_Image_Recognition.git main
+    git clone https://github.com/Gururazer/Automated_End_to_End_Custom_Model_Builder.git master
 
 - Go to the cloned directory
 
