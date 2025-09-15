@@ -9,7 +9,7 @@ This project allows users to create custom datasets, automatically annotate imag
 ## 🎥 Demo
 
 ![Demo GIF](visuals/demo.gif)  
-*Real-time detection using the trained YOLOv8 model.*
+*Real-time detection using the trained Custom YOLOv8 model.*
 
 ---
 
@@ -41,7 +41,7 @@ This process is challenging for non-experts and slows down experimentation and p
 - Fully automated **dataset creation and model training** pipeline.
 - Rapid prototyping of custom object detection models.
 - Clear **performance metrics** for trained models.
-- Portfolio-ready demonstration of end-to-end AI model development.
+- End-to-end Custom Vision model development.
 
 ---
 
@@ -64,7 +64,7 @@ This process is challenging for non-experts and slows down experimentation and p
 
 ---
 
-## Performance Metrics (Epoch 100)
+## Performance Metrics of a Custom Dataset (Epoch 100)
 
 - **Training Losses:**  
   - Box Loss: ≈ 0.2  
